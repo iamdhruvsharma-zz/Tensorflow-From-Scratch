@@ -7,4 +7,4 @@ Consider using Google Colab for running the mentioned notebooks.
 3. MNIST classification using Keras (Much Easier) [Consider this link: https://blog.keras.io/keras-as-a-simplified-interface-to-tensorflow-tutorial.html ]
 
 ## How to run?
-Just open any notebook in Google Colab! Make sure you use GPU for training.
+Just open any notebook in Google Colab! Make sure you use GPU for training. Release the resources after use. :)
